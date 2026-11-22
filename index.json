@@ -1,65 +1,625 @@
 {
- "version": 1,
+ "version": 3,
  "photos": [
   {
-   "file": "mosque-8332107.jpg",
-   "kind": "mosque"
+   "file": "street-536734.jpg",
+   "kind": "street"
   },
   {
-   "file": "mosque-19522634.jpg",
-   "kind": "mosque"
+   "file": "fog-614512.jpg",
+   "kind": "fog"
   },
   {
-   "file": "mosque-34461178.jpg",
-   "kind": "mosque"
+   "file": "rain-68357.jpg",
+   "kind": "rain"
   },
   {
-   "file": "mosque-31675462.jpg",
-   "kind": "mosque"
+   "file": "forest-1437601.jpg",
+   "kind": "forest"
   },
   {
-   "file": "mosque-28348637.jpg",
-   "kind": "mosque"
+   "file": "warm-1686020.jpg",
+   "kind": "warm"
   },
   {
-   "file": "mosque-11332198.jpg",
-   "kind": "mosque"
+   "file": "rain-975771.jpg",
+   "kind": "rain"
   },
   {
-   "file": "mosque-14418841.jpg",
-   "kind": "mosque"
+   "file": "autumn-1110671.jpg",
+   "kind": "autumn"
   },
   {
-   "file": "mosque-30250864.jpg",
-   "kind": "mosque"
+   "file": "clouds-151597.jpg",
+   "kind": "clouds"
   },
   {
-   "file": "mosque-30250475.jpg",
-   "kind": "mosque"
+   "file": "tea-31570494.jpg",
+   "kind": "tea"
   },
   {
-   "file": "mosque-27229367.jpg",
-   "kind": "mosque"
+   "file": "lake-38326.jpg",
+   "kind": "lake"
   },
   {
-   "file": "mosque-14435997.jpg",
-   "kind": "mosque"
+   "file": "street-2748715.jpg",
+   "kind": "street"
   },
   {
-   "file": "mosque-36783025.jpg",
-   "kind": "mosque"
+   "file": "water-355566.jpg",
+   "kind": "water"
   },
   {
-   "file": "mosque-40053901.jpg",
-   "kind": "mosque"
+   "file": "rain-457713.jpg",
+   "kind": "rain"
   },
   {
-   "file": "mosque-36315020.jpg",
-   "kind": "mosque"
+   "file": "snow-376364.jpg",
+   "kind": "snow"
   },
   {
-   "file": "mosque-28428647.jpg",
-   "kind": "mosque"
+   "file": "warm-2079452.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "aurora-4572252.jpg",
+   "kind": "aurora"
+  },
+  {
+   "file": "autumn-9782160.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "fog-1126386.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "tea-37523276.jpg",
+   "kind": "tea"
+  },
+  {
+   "file": "forest-5833982.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "street-8592558.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "rain-2518891.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "rain-974069.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "clouds-1049751.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "warm-5824803.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "lake-276374.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "autumn-10267791.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "water-826388.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "tea-34835064.jpg",
+   "kind": "tea"
+  },
+  {
+   "file": "snow-6841423.jpg",
+   "kind": "snow"
+  },
+  {
+   "file": "street-9176863.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "aurora-6663553.jpg",
+   "kind": "aurora"
+  },
+  {
+   "file": "rain-1545732.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "fog-1367188.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "warm-6789634.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "forest-5866943.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "autumn-29045193.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "rain-4317937.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "tea-40304847.jpg",
+   "kind": "tea"
+  },
+  {
+   "file": "clouds-1689645.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "street-9183452.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "lake-1095817.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "rain-2068411.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "water-1830721.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "warm-7541176.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "snow-8507063.jpg",
+   "kind": "snow"
+  },
+  {
+   "file": "autumn-33528159.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "aurora-7971689.jpg",
+   "kind": "aurora"
+  },
+  {
+   "file": "street-10493305.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "fog-3635134.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "rain-2792386.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "forest-6176831.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "warm-13141003.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "rain-4997850.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "autumn-34405185.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "clouds-8264289.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "street-11839840.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "lake-2301172.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "rain-5989068.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "water-2005300.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "warm-13278838.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "snow-11053224.jpg",
+   "kind": "snow"
+  },
+  {
+   "file": "autumn-34574535.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "aurora-11685284.jpg",
+   "kind": "aurora"
+  },
+  {
+   "file": "street-11839890.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "fog-4316230.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "rain-8954003.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "forest-6194260.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "warm-18893259.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "rain-9497234.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "autumn-34632989.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "clouds-8738464.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "street-13413234.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "lake-3693623.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "rain-9488191.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "water-2259239.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "warm-20360852.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "snow-14477167.jpg",
+   "kind": "snow"
+  },
+  {
+   "file": "autumn-34869485.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "fog-4992804.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "street-30709779.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "forest-10124980.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "rain-10205351.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "rain-9608669.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "warm-27296579.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "clouds-9158825.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "autumn-38037931.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "lake-6130817.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "street-35203632.jpg",
+   "kind": "street"
+  },
+  {
+   "file": "water-3026533.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "rain-11808107.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "snow-15185824.jpg",
+   "kind": "snow"
+  },
+  {
+   "file": "warm-27497441.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "fog-5865568.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "autumn-17770166.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "forest-11895413.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "rain-12163237.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "rain-11692285.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "warm-27817983.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "clouds-12306604.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "autumn-19969305.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "lake-8945613.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "rain-13568432.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "water-5769326.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "warm-30756616.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "fog-7087984.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "autumn-20703075.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "forest-12495215.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "rain-20164680.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "rain-13837315.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "warm-32355734.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "clouds-15576516.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "autumn-34792897.jpg",
+   "kind": "autumn"
+  },
+  {
+   "file": "lake-11979712.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "rain-29273395.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "water-7267675.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "warm-36484101.jpg",
+   "kind": "warm"
+  },
+  {
+   "file": "fog-8658192.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "rain-36425215.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "forest-13905859.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "rain-17201187.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "clouds-18100917.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "lake-12704794.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "water-7872073.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "fog-8888489.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-14216874.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "rain-18766217.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "clouds-31206089.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "lake-15617534.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "water-16695204.jpg",
+   "kind": "water"
+  },
+  {
+   "file": "fog-9391811.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-16714913.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "rain-19099520.jpg",
+   "kind": "rain"
+  },
+  {
+   "file": "clouds-33927764.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "lake-17887053.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "fog-10614783.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-25491108.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "clouds-38006948.jpg",
+   "kind": "clouds"
+  },
+  {
+   "file": "lake-19779565.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "fog-11829336.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-27044007.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "lake-27454892.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "fog-15297172.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-27436359.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "lake-32989914.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "fog-20796339.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-28398997.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "lake-37897024.jpg",
+   "kind": "lake"
+  },
+  {
+   "file": "fog-28793521.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-30002039.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "fog-33653192.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-32341325.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "fog-34693090.jpg",
+   "kind": "fog"
+  },
+  {
+   "file": "forest-35917091.jpg",
+   "kind": "forest"
+  },
+  {
+   "file": "fog-37553320.jpg",
+   "kind": "fog"
   },
   {
    "file": "nature-5738357.jpg",
@@ -226,20 +786,8 @@
    "kind": "sky"
   },
   {
-   "file": "mosque-12840440.jpg",
-   "kind": "mosque"
-  },
-  {
    "file": "nature-163915.jpg",
    "kind": "nature"
-  },
-  {
-   "file": "mosque-40410052.jpg",
-   "kind": "mosque"
-  },
-  {
-   "file": "mosque-40053907.jpg",
-   "kind": "mosque"
   },
   {
    "file": "nature-9389047.jpg",
@@ -332,14 +880,6 @@
   {
    "file": "sky-1106427.jpg",
    "kind": "sky"
-  },
-  {
-   "file": "mosque-16208605.jpg",
-   "kind": "mosque"
-  },
-  {
-   "file": "mosque-13249053.jpg",
-   "kind": "mosque"
   }
  ]
 }
